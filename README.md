@@ -1,5 +1,6 @@
 ## Prerequisites
 Node.js
+```
 NPM
 
 ## To install and run backend project
