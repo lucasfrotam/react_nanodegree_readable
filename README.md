@@ -7,7 +7,11 @@ NPM
 Go to backend folder and run
 
 ```
-> cd backend; npm install
+> cd backend
+```
+
+```
+> npm install
 ```
 
 ```
@@ -19,7 +23,11 @@ Go to backend folder and run
 Go to frontend folder and run
 
 ```
-> cd frontend; npm install
+> cd frontend
+```
+
+```
+> npm install
 ```
 
 ```
